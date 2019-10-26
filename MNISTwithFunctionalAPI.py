@@ -2,7 +2,6 @@ from tensorflow.python.keras.datasets import mnist
 from tensorflow.python.keras import models
 from tensorflow.python.keras import layers
 from tensorflow.python.keras.utils import to_categorical
-from PIL import Image
 
 
 #define the data
